@@ -1,0 +1,27 @@
+* The plan is to create an app in rust, that is simple/easy and quick to use, providing information to anyone
+    about the location of trouble makers on the streets.
+* At minimum, it will have a 1-5 rating buttons, to rate the severity of the danger posed by the trouble
+    makers
+* Just press one of those, and submit, to notify anyone looking at the in-app map, of the
+    location of the roaming kids.
+
+* This app allows people outside, who want to avoid trouble to avoid areas, where there are kids like this.
+* Also the app allows the position of trouble makers to be tracked, as residents nearest the kids use the app
+    as the kids get closer to their residence.
+* Such information can also be valuable as evidence to the local council, to get focussed police patrols in
+    the area
+
+* Additionally, the app will also have tick boxes, containing the characteristics of the group, such as:
+    - Large Group
+    - Shouting
+    - Drunk
+    - Violent/Fighting
+    - Destructive/Vandlism
+    - Loud Music
+    - Carrying Weapons
+    - Other _____
+    - etc.
+
+* That way, when somebody is judging whether they wish to go through such a group, they can choose whether,
+    they are willing to or not
+

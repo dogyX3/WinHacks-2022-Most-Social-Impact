@@ -1,0 +1,1 @@
+C:\Users\mail_\Documents\GitHub\WinHacks-2022-Most-Social-Impact\clinews\target\debug\clinews.exe: C:\Users\mail_\Documents\GitHub\WinHacks-2022-Most-Social-Impact\clinews\newsapi\src\lib.rs C:\Users\mail_\Documents\GitHub\WinHacks-2022-Most-Social-Impact\clinews\src\main.rs
